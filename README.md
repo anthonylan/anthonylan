@@ -1,4 +1,4 @@
-### Hey! 👋 Thanks for stopping by!
+***Hey! 👋 Thanks for stopping by!***
 
 I create software that helps people get things done faster and easier because I think it's awesome and love doing it—like 99% of the time!
 
