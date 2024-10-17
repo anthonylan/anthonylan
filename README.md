@@ -1,7 +1,6 @@
 ***Hey! 👋 Thanks for stopping by!***
 
-I create software that helps people get things done faster and easier because I think it's awesome and love doing it—like 99% of the time!
-
+I write software because it's rewarding and I genuinely love it. Honestly, if you ask me, doing what you love is the best reason to do anything.
 
 <!--
 **anthonylan/anthonylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
