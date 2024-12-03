@@ -1,5 +1,3 @@
-***Hey! 👋 Thanks for stopping by!***
-
 I write software because it's rewarding and I genuinely love it. Honestly, if you ask me, doing what you love is the best reason to do anything.
 
 🔭 I’m currently open to new freelance projects and exploring my personal ventures, including:
