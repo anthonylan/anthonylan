@@ -1,10 +1,8 @@
-I write software because it's rewarding and I genuinely love it. Honestly, if you ask me, doing what you love is the best reason to do anything.
+I write software because it's rewarding and I genuinely love it.
 
-🔭 I’m currently open to new freelance projects and exploring my personal ventures, including:
-- [Themes: Micro SaaS landing pages](https://themes.indiebold.com/)
-- [Temaly: Time tracking app](https://temaly.com)
+- Currently working on exciting projects like [Temaly](https://temaly.com) and [Indiebold](https://indiebold.com)
+- Currently accepting new freelance projects – let's collaborate! 📫
 
-Have a big idea 🚀 or just want to say hello? Let’s connect! 📫
 <!--
 **anthonylan/anthonylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
