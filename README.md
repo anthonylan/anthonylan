@@ -1,7 +1,7 @@
 I write software because it's rewarding and I genuinely love it.
 
-🔭 Currently working on exciting projects like [Temaly](https://temaly.com) and [Indiebold](https://indiebold.com)
-📫 Currently accepting new freelance projects – let's collaborate!
+- 🔭 Currently working on exciting projects like [Temaly](https://temaly.com) and [Indiebold](https://indiebold.com)
+- 📫 Currently accepting new freelance projects – let's collaborate!
 
 <!--
 **anthonylan/anthonylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
