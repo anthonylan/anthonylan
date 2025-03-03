@@ -1,6 +1,6 @@
 I write software because it's rewarding and I genuinely love it.
 
-- 🔭 Currently working on exciting projects like [Temaly](https://temaly.com) and [Indiebold](https://indiebold.com)
+- 🔭 Currently working on exciting projects like [Temaly](https://temaly.com), [Indiebold](https://indiebold.com) & [Landing pages](https://themes.temaly.com)
 - 📫 Currently accepting new freelance projects – let's collaborate!
 
 <!--
