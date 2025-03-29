@@ -2,7 +2,7 @@ I write software because it's rewarding and I genuinely love it.
 
 🔭 See my current projects:
 - [IndieBOLD](https://indiebold.com)
-- [Temaly](https://temaly.com),
+- [Temaly](https://temaly.com)
 - [Landing pages](https://themes.temaly.com)
   
 📫 Currently accepting new freelance projects – let's collaborate!
