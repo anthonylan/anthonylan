@@ -1,10 +1,4 @@
 I write software because it's rewarding and I genuinely love it.
-
-🔭 See my current projects:
-- [Themes](https://themes.temaly.com)
-- [IndieBOLD](https://indiebold.com)
-- [Temaly](https://temaly.com)
-  
 📫 Currently accepting new freelance projects – let's collaborate!
 
 <!--
