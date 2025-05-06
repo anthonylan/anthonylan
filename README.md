@@ -1,4 +1,5 @@
 I write software because it's rewarding and I genuinely love it.
+
 📫 Currently accepting new freelance projects – let's collaborate!
 
 <!--
