@@ -1,7 +1,4 @@
-I write software because it's rewarding and I genuinely love it.
-
-📫 Currently accepting new freelance projects – let's collaborate!
-
+I’m a fullstack web developer based in Milan, passionate about building open-source projects and the occasional micro-SaaS. I also freelance regularly, so new collaborations are always welcome. While you’re here, check out my [theme library](https://themes.temaly.com/) — I’m always adding new updates.
 <!--
 **anthonylan/anthonylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
