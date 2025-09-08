@@ -1,5 +1,5 @@
 - 👋 hello, I'm Anthony Charles.
-- 👀 love building SaaS products that delight users and solve real problems.
+- 👀 I love building SaaS products that delight users and solve real problems.
 - 🌱 I'm currently working on [Temaly](https://temaly.com/)
 - 💌 inquiries: [hello@anthonycharles.work](mailto:hello@anthonycharles.work)
 - 🔭 checkout my [theme library](https://themes.temaly.com/) 
