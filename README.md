@@ -1,9 +1,9 @@
-- 👋 hello, I'm Anthony Charles.
+- 👋 Hello, I'm Anthony Charles.
 - 👀 I love building SaaS products that delight users and solve real problems.
 - 🌱 I'm currently working on [Temaly](https://temaly.com/)
-- 💌 inquiries: [hello@anthonycharles.work](mailto:hello@anthonycharles.work)
-- 🔭 checkout my [theme library](https://themes.temaly.com/) 
-- 😄 let's connent!
+- 💌 Inquiries: [hello@anthonycharles.work](mailto:hello@anthonycharles.work)
+- 🔭 Checkout my [theme library](https://themes.temaly.com/) 
+- 😄 Let's connent!
 
 <!--
 **anthonylan/anthonylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
