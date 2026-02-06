@@ -1,7 +1,7 @@
 - 👋 Hello, I'm Anthony Charles.
 - 👀 I build SaaS products that make real impact.
 - 🌱 I'm currently working on [Temaly](https://temaly.com/) & [Indiebold](https://indiebold.com/)
-- 💌 Inquiries: [hello@anthonycharles.work](mailto:hello@anthonycharles.work)
+- 💌 Inquiries: [hello@indieteamofone.com](mailto:hello@indieteamofone.com)
 - 🔭 Checkout my [theme library](https://themes.temaly.com/) 
 - 😄 Let's connent!
 
