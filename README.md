@@ -2,7 +2,6 @@
 - 👀 I build SaaS products that make real impact.
 - 🌱 I'm currently working on [Temaly](https://temaly.com/) & [Indiebold](https://indiebold.com/)
 - 🔭 Checkout my [theme library](https://themes.temaly.com/) 
-- 😄 Let's connent!
 
 <!--
 **anthonylan/anthonylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
